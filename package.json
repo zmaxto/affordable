@@ -11,10 +11,13 @@
     "url": "https://github.com/zmaxto/affordable.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "zmaxto",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/zmaxto/affordable/issues"
   },
-  "homepage": "https://github.com/zmaxto/affordable#readme"
+  "homepage": "https://github.com/zmaxto/affordable#readme",
+  "dependencies": {
+    "affordable": "^1.0.0"
+  }
 }
